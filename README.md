@@ -2,8 +2,8 @@
 
 ## Project Setup
 
-### Clone the Mortgage Calculator project repository from the version control system (e.g., Git):
-#### git clone <repository_url>
+### Clone the Mortgage Calculator project repository from the version control system:
+#### git clone <git@github.com:Christbella/MortgageCalculator-Java.git>
 
 ### Navigate to the root directory of the project:
 
